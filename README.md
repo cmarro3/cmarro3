@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christopher 
 - 👀 I’m interested in all things code
-- 🌱 I’m currently learning Cypress.io
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on all things front end or full stack 
 - 📫 How to reach me christophermarroquin352@gmail.com
 
